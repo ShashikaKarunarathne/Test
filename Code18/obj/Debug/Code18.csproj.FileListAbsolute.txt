@@ -1,0 +1,6 @@
+F:\3rd Semester\C# Original\C#CodesInHome\Code18\Code18\bin\Debug\Code18.exe.config
+F:\3rd Semester\C# Original\C#CodesInHome\Code18\Code18\bin\Debug\Code18.exe
+F:\3rd Semester\C# Original\C#CodesInHome\Code18\Code18\bin\Debug\Code18.pdb
+F:\3rd Semester\C# Original\C#CodesInHome\Code18\Code18\obj\Debug\Code18.csprojResolveAssemblyReference.cache
+F:\3rd Semester\C# Original\C#CodesInHome\Code18\Code18\obj\Debug\Code18.exe
+F:\3rd Semester\C# Original\C#CodesInHome\Code18\Code18\obj\Debug\Code18.pdb
